@@ -1,4 +1,4 @@
-![alt text](./images/piedpage.svg)
+![alt text](./images/tetepage.png)
 
 # <p align="center">Bienvenue sur mon profil Github ! </p>
 
