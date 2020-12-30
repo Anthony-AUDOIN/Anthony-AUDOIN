@@ -1,6 +1,6 @@
+![Alt Text](./images/Template/header.png)
 
-
-#<p align="center">Salut, moi c'est Anthony :smiley:</p>
+#<p>Salut, moi c'est Anthony :smiley:</p>
 
 <h3>Qui suis-je</h3>
 <p align="center">Etudiant en IUT Informatique étant passionné par tout, touchant de près ou de loin au developpement informatique. :grin:</p>
