@@ -3,22 +3,28 @@
 # <p align=center>Salut, moi c'est Anthony :smiley:</p>
 
 <h3>Qui suis-je</h3>
-<p align="center">Étudiant en IUT Informatique, Je suis . :grin:</p>
+<p align="center">Étudiant en IUT Informatique, j'adore faire du developpement web avec toutes sortes de nouvelles technologies. :grin:</p>
 
 ### <p>Langages connus</p>
 <p align=center>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width=7% alt="">
-    <img src="" width=7% alt="">
-    <img src="" width=7% alt="">
-    <img src="" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width=7% alt="">
 </p>
 
 ### <p>Outils utilisés</p>
 <p align=center>
-    <img src="" width=7% alt="">
-    <img src="" width=7% alt="">
-    <img src="" width=7% alt="">
-    <img src="" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width=7% alt="">
 </p>
 
 ### <p>Quelques statistiques :yum:</p>
