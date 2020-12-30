@@ -17,7 +17,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width=7% alt="">
-
 </p>
 
 ### <p>Outils utilisés</p>
@@ -25,6 +24,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" width=7% alt="">
+    <img src="https://github.com/Anthony-AUDOIN/Anthony-AUDOIN/blob/main/images/Tools%20Icons/icon-intellij-idea.svg" width=7% alt="">
+    <img src="https://github.com/Anthony-AUDOIN/Anthony-AUDOIN/blob/main/images/Tools%20Icons/icon_CLion.svg" width=7% alt="">
+    <img src="https://github.com/Anthony-AUDOIN/Anthony-AUDOIN/blob/main/images/Tools%20Icons/icon-webstorm.svg" width=7% alt="">
+    <img src="https://github.com/Anthony-AUDOIN/Anthony-AUDOIN/blob/main/images/Tools%20Icons/icon-phpstorm.svg" width=7% alt="">
+    <img src="https://github.com/Anthony-AUDOIN/Anthony-AUDOIN/blob/main/images/Tools%20Icons/icon-datagrip.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width=7% alt="">
 </p>
 
