@@ -2,7 +2,7 @@
 
 #<p align="center">Salut, moi c'est Anthony :smiley:</p>
 
-###<p>Qui suis-je</p>
+<h3>Qui suis-je</h3>
 <p align="center">Etudiant en IUT Informatique étant passionné par touchant de pres ou de loin au developpement informatique. :grin:</p>
 
 ###<p>Langages connus</p>
