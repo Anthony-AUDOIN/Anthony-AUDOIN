@@ -18,6 +18,11 @@
 </div>
 
 ### <p>Pour me contacter</p>
-<p align="center"></p>
+<p align=center>
+    <a><img src="images/Tools%20Icons/linkedin.png" alt="LinkedIn"></a>
+    <a><img src="images/Tools%20Icons/twitter.png" alt="Twitter"></a>
+    <a><img src="images/Tools%20Icons/instagram.png" alt="Instagram"></a>
+    <a><img src="images/Tools%20Icons/facebook.png" alt="Facebook"></a>
+</p>
 
 ![Alt Text](./images/Template/footer.png)
