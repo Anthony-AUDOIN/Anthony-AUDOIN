@@ -9,14 +9,15 @@
 <p align=center>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width=7% alt="">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width=7% alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=7% alt="">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width=7% alt="">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width=7% alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width=7% alt="">
+
 </p>
 
 ### <p>Outils utilisés</p>
