@@ -1,9 +1,9 @@
-![img header](./images/Template/header.png);
+![Alt Text](./images/Template/header.png)
 
 #<p align="center">Salut, moi c'est Anthony :smiley:</p>
 
 <h3>Qui suis-je</h3>
-<p align="center">Etudiant en IUT Informatique étant passionné par touchant de pres ou de loin au developpement informatique. :grin:</p>
+<p align="center">Etudiant en IUT Informatique étant passionné par tout, touchant de près ou de loin au developpement informatique. :grin:</p>
 
 ###<p>Langages connus</p>
 <p align=center><img src="" width=7% alt=""><img src="" width=7% alt=""><img src="" width=7% alt=""><img src="" width=7% alt=""></p>
@@ -18,4 +18,4 @@
 ###<p>Pour me contacter</p>
 <p align="center"></p>
 
-![img footer](./images/Template/footer.png)
+![Alt Text](./images/Template/footer.png)
