@@ -19,10 +19,10 @@
 
 ### <p>Pour me contacter</p>
 <p align=center>
-    <a><img src="images/Tools%20Icons/linkedin.png" alt="LinkedIn"></a>
-    <a><img src="images/Tools%20Icons/twitter.png" alt="Twitter"></a>
-    <a><img src="images/Tools%20Icons/instagram.png" alt="Instagram"></a>
-    <a><img src="images/Tools%20Icons/facebook.png" alt="Facebook"></a>
+    <a><img src="images/Tools%20Icons/linkedin.png" alt="LinkedIn" width="512"></a>
+    <a><img src="images/Tools%20Icons/twitter.png" alt="Twitter" width="512"></a>
+    <a><img src="images/Tools%20Icons/instagram.png" alt="Instagram" width="512"></a>
+    <a><img src="images/Tools%20Icons/facebook.png" alt="Facebook" width="512"></a>
 </p>
 
 ![Alt Text](./images/Template/footer.png)
