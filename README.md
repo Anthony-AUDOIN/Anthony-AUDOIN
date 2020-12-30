@@ -1,6 +1,6 @@
 ![Alt Text](./images/Template/header.png)
 
-#<p align="center">Salut, moi c'est Anthony :smiley:</p>
+#<p align="center">Salut, moi c'est Anthony</p>
 
 
 
