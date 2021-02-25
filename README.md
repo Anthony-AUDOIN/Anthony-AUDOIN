@@ -42,8 +42,7 @@
 <p align=center>
     <a href="https://www.linkedin.com/in/anthonyaudoin/"><img src="images/Tools%20Icons/linkedin.png" alt="LinkedIn" width=5%></a>
     <a href="https://twitter.com/Anthony_Audoin"><img src="images/Tools%20Icons/twitter.png" alt="Twitter" width=5%></a>
-    <a href="https://www.instagram.com/anthony_audoin/"><img src="images/Tools%20Icons/instagram.png" alt="Instagram" width=5%></a>
-    <a href="https://www.facebook.com/audoin.anthony"><img src="images/Tools%20Icons/facebook.png" alt="Facebook" width=5%></a>
+    <a href="mailto:anthony.audoin@etu.unilim.fr"><img src="https://zupimages.net/up/20/53/yra1.png" alt="mail" width=5%/</a>
 </p>
 
 ![Alt Text](./images/Template/footer.png)
