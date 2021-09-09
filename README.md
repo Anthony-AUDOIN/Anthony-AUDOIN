@@ -9,13 +9,13 @@
 <p align=center>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width=7% alt="Langage C">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width=7% alt="C++">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width=7% alt="Rust">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width=7% alt="Java">
+    <!--<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width=7% alt="Rust">-->
+    <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width=7% alt="Java">-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width=7% alt="HTML5">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width=7% alt="CSS3">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width=7% alt="PHP">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width=7% alt="MySQL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width=7% alt="Angular">
+    <!--<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width=7% alt="Angular">-->
 </p>
 
 ### <p>Outils utilisés</p>
