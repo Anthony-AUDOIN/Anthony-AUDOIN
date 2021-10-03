@@ -3,7 +3,7 @@
 # <p align=center>Salut, moi c'est Anthony :smiley:</p>
 
 <h3>Qui suis-je</h3>
-<p align="center">Étudiant en IUT Informatique, j'adore faire du developpement web avec toutes sortes de nouvelles technologies. :grin:</p>
+<p align="center">Étudiant en LP Développement d'Application Web et Big Data, j'adore faire du developpement web avec toutes sortes de nouvelles technologies. :grin:</p>
 
 ### <p>Langages connus</p>
 <p align=center>
