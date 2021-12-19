@@ -1,5 +1,3 @@
-![Alt Text](./images/Template/header.png)
-
 # <p align=center>Salut, moi c'est Anthony :smiley:</p>
 
 <h3>Qui suis-je</h3>
@@ -17,5 +15,3 @@
     <a href="https://twitter.com/Anthony_Audoin"><img src="images/Tools%20Icons/twitter.png" alt="Twitter" width=5%></a>
     <a href="mailto:anthony.audoin@etu.unilim.fr"><img src="https://zupimages.net/up/20/53/yra1.png" alt="mail" width=5%/</a>
 </p>
-
-![Alt Text](./images/Template/footer.png)
