@@ -15,5 +15,3 @@
     <a href="https://twitter.com/Anthony_Audoin"><img src="images/Tools%20Icons/twitter.png" alt="Twitter" width=5%></a>
     <a href="mailto:anthony.audoin@etu.unilim.fr"><img src="https://zupimages.net/up/20/53/yra1.png" alt="mail" width=5%/</a>
 </p>
-    
-![](https://hit.yhype.me/github/profile?user_id=58783236)
