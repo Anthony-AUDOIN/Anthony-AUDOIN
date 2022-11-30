@@ -1,5 +1,5 @@
 # 💫 A propos de moi:
-👋 Bienvenue sur mon profil Github !<br>👨 Je m'appelle Anthony AUDOIN et je suis un développeur web de 21 ans<br>📃 J'ai effectué un DUT Informatique suivi d'une Licence Professionnelle - Développeur d'applications Web et Big Data en alternance chez Borea Dental <br>📍 Je suis actuellement sur Périgueux.<br>🔭 Je suis actuellement en recherche d'opportunités à Bordeaux/Périgueux.<br>🌱 Je suis actuellement en train d'apprendre Type Script.
+👋 Bienvenue sur mon profil Github !<br>👨 Je m'appelle Anthony AUDOIN et je suis un développeur web de 21 ans<br>📃 J'ai effectué un DUT Informatique suivi d'une Licence Professionnelle - Développeur d'applications Web et Big Data en alternance chez Borea Dental <br>📍 Je suis actuellement sur Périgueux.<br>🔭 Je suis actuellement en recherche d'opportunités en Nouvelle Aquitaine.<br>🌱 Je suis actuellement en train d'apprendre React.
 
 
 ## 🌐 Socials:
