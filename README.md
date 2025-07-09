@@ -1,5 +1,5 @@
 # 💫 A propos de moi:
-👋 Bienvenue sur mon profil Github !<br>👨 Je m'appelle Anthony AUDOIN et je suis un développeur web de 22 ans<br>📃 Je suis Développeur Informatique et Administrateur SIG <br>📍 Je suis actuellement sur Périgueux.
+👋 Bienvenue sur mon profil Github !<br>📃 Je suis Développeur Informatique et Administrateur SIG
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonyaudoin)
