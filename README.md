@@ -18,8 +18,3 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-# 📊 Statistiques GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-AUDOIN&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
